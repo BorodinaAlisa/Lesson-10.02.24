@@ -14,7 +14,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
 namespace Lesson_10._02._24
 {
-    public partial class Form1 : Form
+    public partial class Notebook : Form
     {
         private Color fontColor = Color.Black;
         public Form1()
